@@ -1,2 +1,4 @@
 var index = requirt('./index.js')
-console.log(name)
+
+
+console.log(index.name)
